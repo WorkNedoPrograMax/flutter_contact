@@ -11,7 +11,7 @@ dependencies:
   dartxx: 
     git:
       url: https://github.com/WorkNedoPrograMax/dartxx.git
-      ref: a907d29e1fc09bbe6fd9d3ef3768240e5b1bfc98
+      ref: 0c8fe91689847f7768da925c304046d726f0963a
   equatable: 
   #flexidate: ^0.8.0+3
   flexidate:
