@@ -11,13 +11,13 @@ dependencies:
   dartxx: 
     git:
       url: https://github.com/WorkNedoPrograMax/dartxx.git
-      ref: 0c8fe91689847f7768da925c304046d726f0963a
+      ref: a907d29e1fc09bbe6fd9d3ef3768240e5b1bfc98
   equatable: 
   #flexidate: ^0.8.0+3
   flexidate:
     git:
       url: https://github.com/WorkNedoPrograMax/flexidate.git
-      ref: 4e4315e2e3bbe1b1125c4b458ee26cdef18609f2
+      ref: 0c8fe91689847f7768da925c304046d726f0963a
   #intl: ^0.17.0 jinaki 수정
   intl: 
   logging: ^1.0.2
