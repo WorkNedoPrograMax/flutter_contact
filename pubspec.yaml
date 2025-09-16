@@ -13,8 +13,8 @@ dependencies:
   #flexidate: ^0.8.0+3
   flexidate:
     git:
-      url: https://github.com/everytt/flexidate.git
-      ref: master
+      url: https://github.com/WorkNedoPrograMax/flexidate.git
+      ref: 4e4315e2e3bbe1b1125c4b458ee26cdef18609f2
   #intl: ^0.17.0 jinaki 수정
   intl: 
   logging: ^1.0.2
