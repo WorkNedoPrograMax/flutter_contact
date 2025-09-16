@@ -9,6 +9,9 @@ environment:
 dependencies: 
   collection: ^1.15.0
   dartxx: 
+    git:
+      url: https://github.com/WorkNedoPrograMax/dartxx.git
+      ref: a907d29e1fc09bbe6fd9d3ef3768240e5b1bfc98
   equatable: 
   #flexidate: ^0.8.0+3
   flexidate:
